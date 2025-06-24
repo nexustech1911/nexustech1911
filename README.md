@@ -1,6 +1,4 @@
-Here's a sample GitHub profile README:
 
-```
 Hi, I'm [Your Name] 👋
 
 About Me
@@ -23,12 +21,3 @@ Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[YourTwitterUsername])
 ```
 
-Replace `[Your Name]`, `[YourUsername]`, `[YourLinkedInUsername]`, and `[YourTwitterUsername]` with your actual details.
-
-*Tips:*
-
-- Customize the theme by changing `radical` to any other theme you like (e.g., `dark`, `light`, `monokai`, etc.).
-- Add or remove sections as per your preference.
-- Make sure to replace the placeholders with your actual information.
-
-This README will showcase your GitHub statistics, most used languages, total contributions, and GitHub trophies, along with links to connect with you on LinkedIn and Twitter.
