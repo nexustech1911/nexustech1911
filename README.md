@@ -8,16 +8,11 @@ My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexustech1911&show_icons=true&theme=radical)](https://github.com/nexustech1911)
 
 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)](https://github.com/[YourUsername])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexustech1911&layout=compact&theme=radical)](https://github.com/nexustech1911)
 
 Total Contributions
-[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical)](https://github.com/[YourUsername])
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical)](https://github.com/nexustech1911)
 
 GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical)](https://github.com/[YourUsername])
-
-Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedInUsername])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/[YourTwitterUsername])
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=nexustech1911&theme=radical)](https://github.com/nexustech1911)
 
