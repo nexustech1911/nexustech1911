@@ -5,7 +5,7 @@ About Me
 I'm a passionate developer with a love for coding and building innovative projects.
 
 My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)](https://github.com/[nexustech1911])
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[nexustech1911]&show_icons=true&theme=radical)](https://github.com/[nexustech1911])
 
 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)](https://github.com/[YourUsername])
